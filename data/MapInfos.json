@@ -1,4 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":411.5,"scrollY":334}
+{"id":1,"expanded":true,"name":"Peta luar rumah buat kabur","order":1,"parentId":0,"scrollX":819,"scrollY":448},
+{"id":2,"expanded":true,"name":"Peta dalam rumah","order":2,"parentId":1,"scrollX":819,"scrollY":448},
+{"id":3,"expanded":true,"name":"Goa Persiapan Perang","order":3,"parentId":0,"scrollX":811,"scrollY":448},
+{"id":4,"expanded":false,"name":"Pengumpulan Pasukan","order":4,"parentId":3,"scrollX":819,"scrollY":448}
 ]
