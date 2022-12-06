@@ -1,7 +1,13 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Peta luar rumah buat kabur","order":1,"parentId":0,"scrollX":832,"scrollY":640},
-{"id":2,"expanded":true,"name":"Peta dalam rumah","order":2,"parentId":1,"scrollX":722.6666666666666,"scrollY":433.3333333333333},
-{"id":3,"expanded":true,"name":"Goa Persiapan Perang","order":3,"parentId":0,"scrollX":712,"scrollY":526.6666666666666},
-{"id":4,"expanded":false,"name":"Pengumpulan Pasukan","order":4,"parentId":3,"scrollX":832,"scrollY":640}
+{"id":1,"expanded":true,"name":"Peta luar rumah buat kabur","order":1,"parentId":0,"scrollX":819,"scrollY":448},
+{"id":2,"expanded":true,"name":"Peta dalam rumah","order":2,"parentId":1,"scrollX":819,"scrollY":448},
+{"id":3,"expanded":false,"name":"Dalam Goa","order":4,"parentId":5,"scrollX":819,"scrollY":448},
+{"id":4,"expanded":true,"name":"Goa Persiapan Perang(terbuka pasukan)","order":5,"parentId":0,"scrollX":811,"scrollY":448},
+{"id":5,"expanded":true,"name":"Goa Persiapan Perang(masih ketutup)","order":3,"parentId":0,"scrollX":811,"scrollY":448},
+{"id":6,"expanded":false,"name":"Pengumpulan Pasukan","order":6,"parentId":0,"scrollX":819,"scrollY":448},
+{"id":7,"expanded":true,"name":"Goa Persiapan Perang(terbuka perbekalan)","order":7,"parentId":0,"scrollX":811,"scrollY":448},
+{"id":8,"expanded":true,"name":"Goa Persiapan Perang(terbuka persenjataan))","order":8,"parentId":0,"scrollX":811,"scrollY":448},
+{"id":9,"expanded":true,"name":"Goa Persiapan Perang(perubahan camping)","order":9,"parentId":0,"scrollX":811,"scrollY":448},
+{"id":10,"expanded":false,"name":"Dalam Camping","order":10,"parentId":9,"scrollX":819,"scrollY":448}
 ]
