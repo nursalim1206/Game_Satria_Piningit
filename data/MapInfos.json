@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Peta luar rumah buat kabur","order":1,"parentId":0,"scrollX":811,"scrollY":992},
-{"id":2,"expanded":true,"name":"Peta dalam rumah","order":2,"parentId":1,"scrollX":819,"scrollY":448},
+{"id":1,"expanded":true,"name":"Peta luar rumah buat kabur","order":1,"parentId":0,"scrollX":712,"scrollY":1006.6666666666666},
+{"id":2,"expanded":true,"name":"Peta dalam rumah","order":2,"parentId":1,"scrollX":722.6666666666666,"scrollY":433.3333333333333},
 null,
 {"id":4,"expanded":true,"name":"Goa Persiapan Perang(terbuka pasukan)","order":5,"parentId":0,"scrollX":811,"scrollY":512},
 {"id":5,"expanded":true,"name":"Goa Persiapan Perang(terbuka perbekalan makan)","order":7,"parentId":0,"scrollX":811,"scrollY":448},
@@ -10,5 +10,5 @@ null,
 {"id":8,"expanded":true,"name":"Goa Persiapan Perang(camping)","order":9,"parentId":0,"scrollX":811,"scrollY":448},
 {"id":9,"expanded":false,"name":"Dalam Goa utama","order":4,"parentId":11,"scrollX":869,"scrollY":600},
 {"id":10,"expanded":false,"name":"Dalam Camping","order":10,"parentId":8,"scrollX":819,"scrollY":448},
-{"id":11,"expanded":true,"name":"Goa Persiapan Perang(tertutup semua)","order":3,"parentId":0,"scrollX":811,"scrollY":512}
+{"id":11,"expanded":true,"name":"Goa Persiapan Perang(tertutup semua)","order":3,"parentId":0,"scrollX":712,"scrollY":512}
 ]
