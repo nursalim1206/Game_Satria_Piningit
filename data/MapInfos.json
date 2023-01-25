@@ -12,8 +12,8 @@ null,
 {"id":10,"expanded":false,"name":"Dalam Camping","order":3,"parentId":8,"scrollX":650.4,"scrollY":366},
 {"id":11,"expanded":true,"name":"Goa Prolog","order":1,"parentId":0,"scrollX":801,"scrollY":457.5},
 {"id":12,"expanded":false,"name":"Pengumpulan Bahan","order":9,"parentId":7,"scrollX":1219.5,"scrollY":1473},
-{"id":13,"expanded":true,"name":"Pengumpulan Senjata","order":5,"parentId":7,"scrollX":1023,"scrollY":1378.5},
-{"id":14,"expanded":false,"name":"Gudang Pedang","order":6,"parentId":13,"scrollX":801,"scrollY":502.5},
-{"id":15,"expanded":false,"name":"Gudang Kapak","order":7,"parentId":13,"scrollX":712,"scrollY":553.3333333333334},
-{"id":16,"expanded":false,"name":"Gudang dagger","order":8,"parentId":13,"scrollX":801,"scrollY":502.5}
+{"id":13,"expanded":true,"name":"Pengumpulan Senjata","order":5,"parentId":7,"scrollX":534,"scrollY":297},
+{"id":14,"expanded":false,"name":"Gudang Pedang","order":6,"parentId":13,"scrollX":666,"scrollY":503},
+{"id":15,"expanded":false,"name":"Gudang Kapak","order":7,"parentId":13,"scrollX":666,"scrollY":553},
+{"id":16,"expanded":false,"name":"Gudang dagger","order":8,"parentId":13,"scrollX":666,"scrollY":503}
 ]
