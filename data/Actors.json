@@ -1,5 +1,7 @@
 [
 null,
 {"id":1,"battlerName":"sv_pangeran diponegoro","characterIndex":0,"characterName":"Pangeran Diponegoro","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Pangeran Diponegoro","traits":[],"initialLevel":1,"maxLevel":99,"name":"Pangeran Diponegoro","nickname":"","note":"","profile":""},
-{"id":2,"battlerName":"SV_Enryuu","characterIndex":3,"characterName":"SF_People2","classId":2,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"SF_People2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Pasukan","nickname":"","note":"","profile":""}
+{"id":2,"battlerName":"Actor2_1","characterIndex":3,"characterName":"SF_People2","classId":2,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"SF_People2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Pasukan 1","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"SV_Enryuu","characterIndex":1,"characterName":"SF_Actor2","classId":2,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"SF_People2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Pasukan 2","nickname":"","note":"","profile":""},
+{"id":4,"battlerName":"SV_Rinfa","characterIndex":1,"characterName":"SF_Actor2","classId":2,"equips":[0,0,0,0,0],"faceIndex":3,"faceName":"SF_People2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Pasukan 3","nickname":"","note":"","profile":""}
 ]
